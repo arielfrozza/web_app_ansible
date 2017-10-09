@@ -1,0 +1,5 @@
+- name: Deploy a web apllication
+  hosts: ubuntu,centos
+  tasks:
+  - name: Test Ping
+    ping: 
