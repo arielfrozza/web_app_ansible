@@ -1,2 +1,4 @@
+[web]
 ubuntu ansible_host=192.168.1.20 ansible_ssh_pass=vagrant
+[db]
 centos ansible_host=192.168.1.30 ansible_ssh_pass=vagrant
