@@ -1,5 +1,5 @@
 - name: Deploy a web apllication
-  hosts: ubuntu,centos
+  hosts: web
   tasks:
   - name: Install all requided dependencies
     apt: name={{ item }} state=installed
@@ -7,5 +7,5 @@
       - python
       - python-setuptools
       - python-dev
-      - build-essencial
+      - build-essential
       - python-pip 
