@@ -1,0 +1,63 @@
+Linux: Network Client Management (LPIC-2)
+by Andrew Mallett
+
+Providing network clients with an IP Address on the network via DHCP is essential to any communication. This course will cover this topic as well as provisioning user accounts to clients with openLDAP.
+
+Course Overview2m 13s
+	Course Overview2m 13s
+Introduction to Network Client Management11m 46s
+	The LPIC-2 Exams6m 7s
+	Navigating the LPI Website4m 0s
+	Summary and What's Next1m 38s
+The Lab Environment26m 43s
+	The Lab Setup for Your Course5m 45s
+	Cloning Virtual Machines from the CLI3m 53s
+	Creating a New Host Only Interface from the CLI3m 52s
+	Connecting Virtual Machines to the Interface from the CLI6m 35s
+	Managing Virtual Machine Groups from the CLI4m 26s
+	Summary and What's Next2m 11s
+Installing the DHCP Server30m 38s
+	DHCP Services in Linux3m 24s
+	Setting the Server Name and Snapshotting a System3m 43s
+	Installing and Configuring DNSMasq as a DHCP Server9m 32s
+	Installing and Configuring the ISC DHCP Server8m 45s
+	Setting the Client Hostname and Using ARP3m 9s
+	Summary and What's Next2m 2s
+Understanding DHCP Logs and IPv629m 23s
+	The Tale of Logs, Leases, and IPv64m 34s
+	Reading from DHCP Logs and Leases6m 37s
+	Understanding IPv6 Configuration7m 18s
+	Setting up Your Network for IPv6 Auto-configuration9m 14s
+	Summary and What's Next1m 39s
+Installing the openLDAP Server28m 17s
+	OpenLDAP in Linux6m 19s
+	Host Name and Time Services5m 41s
+	Installing openLDAP6m 33s
+	Understanding What Can Go Wrong2m 40s
+	Reconfigure the Tree and Create Upper Layers5m 14s
+	Summary1m 48s
+Managing openLDAP Servers41m 10s
+	Managing openLDAP Servers3m 42s
+	Listing Directories With slapcat3m 56s
+	Understanding LDAP Logging Levels3m 48s
+	Configuring Logging on the Server6m 46s
+	Indexing openLDAP Directories9m 9s
+	Understanding User Management in openLDAP3m 23s
+	Managing Users from the CLI7m 55s
+	Summary and What's Next2m 30s
+Sharing LDAP Accounts23m 31s
+	Authenticating Using openLDAP4m 12s
+	Apache Authentication to openLDAP7m 49s
+	Linux and openLDAP Authentication8m 29s
+	Summary3m 0s
+Managing PAM39m 21s
+	Understanding NSS8m 18s
+	A Quick Look at SSSD5m 55s
+	Configuring SSSD to Access LDAP Domains9m 42s
+	Understanding PAM4m 10s
+	Working with PAM9m 51s
+	Summary1m 23s
+
+Level Intermediate
+Duration 3h 53m
+Released 11 Jan 2018
